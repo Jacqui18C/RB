@@ -1,0 +1,15 @@
+D:\Users\USUARIO\Desktop\JESSICA MORALES 6TM65\RB\RB\bin\Debug\net6.0\RB.exe
+D:\Users\USUARIO\Desktop\JESSICA MORALES 6TM65\RB\RB\bin\Debug\net6.0\RB.deps.json
+D:\Users\USUARIO\Desktop\JESSICA MORALES 6TM65\RB\RB\bin\Debug\net6.0\RB.runtimeconfig.json
+D:\Users\USUARIO\Desktop\JESSICA MORALES 6TM65\RB\RB\bin\Debug\net6.0\RB.dll
+D:\Users\USUARIO\Desktop\JESSICA MORALES 6TM65\RB\RB\bin\Debug\net6.0\RB.pdb
+D:\Users\USUARIO\Desktop\JESSICA MORALES 6TM65\RB\RB\obj\Debug\net6.0\RB.vbproj.AssemblyReference.cache
+D:\Users\USUARIO\Desktop\JESSICA MORALES 6TM65\RB\RB\obj\Debug\net6.0\RB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USUARIO\Desktop\JESSICA MORALES 6TM65\RB\RB\obj\Debug\net6.0\RB.AssemblyInfoInputs.cache
+D:\Users\USUARIO\Desktop\JESSICA MORALES 6TM65\RB\RB\obj\Debug\net6.0\RB.AssemblyInfo.vb
+D:\Users\USUARIO\Desktop\JESSICA MORALES 6TM65\RB\RB\obj\Debug\net6.0\RB.vbproj.CoreCompileInputs.cache
+D:\Users\USUARIO\Desktop\JESSICA MORALES 6TM65\RB\RB\obj\Debug\net6.0\RB.dll
+D:\Users\USUARIO\Desktop\JESSICA MORALES 6TM65\RB\RB\obj\Debug\net6.0\refint\RB.dll
+D:\Users\USUARIO\Desktop\JESSICA MORALES 6TM65\RB\RB\obj\Debug\net6.0\RB.pdb
+D:\Users\USUARIO\Desktop\JESSICA MORALES 6TM65\RB\RB\obj\Debug\net6.0\RB.genruntimeconfig.cache
+D:\Users\USUARIO\Desktop\JESSICA MORALES 6TM65\RB\RB\obj\Debug\net6.0\ref\RB.dll
